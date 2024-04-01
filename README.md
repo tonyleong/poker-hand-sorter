@@ -2,6 +2,10 @@
 
 This program evaluates and compares poker hands to determine the winner.
 
+## Prerequisite
+
+Make sure you have Node.js installed on your system. This program requires Node.js version 20.10.0 or higher.
+
 ## Installation
 
 To run this program, make sure you have Node.js installed on your system. Then, follow these steps:
@@ -40,4 +44,8 @@ Player 1:  263
 
 Player 2:  237
 ```
+
+## Contributors
+
+- Tony Leong (https://github.com/tonyleong)
 
